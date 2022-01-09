@@ -1,0 +1,22 @@
+/***** tag selector *****/
+h1 {
+  color: red;
+  font-size: 200px;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+/***** class selector *****/
+.bacon {
+  background-color: lightgreen;
+}
+
+.broccoli {
+  background-color: lightcoral;
+}
+
+.circular {
+  border-radius: 50%;
+}
